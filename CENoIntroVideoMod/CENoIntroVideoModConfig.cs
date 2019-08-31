@@ -1,9 +1,9 @@
 using System;
 using UModFramework.API;
 
-namespace NoIntroVideo
+namespace CENoIntroVideoMod
 {
-    public class NoIntroVideoConfig
+    public class CENoIntroVideoModConfig
     {
         private static readonly string configVersion = "1.0";
 
@@ -11,7 +11,7 @@ namespace NoIntroVideo
 
         internal static void Load()
         {
-            NoIntroVideo.Log("Loading settings.");
+            CENoIntroVideoMod.Log("Loading settings.");
             try
             {
                 using (UMFConfig cfg = new UMFConfig())
@@ -20,7 +20,7 @@ namespace NoIntroVideo
                     if (cfgVer != string.Empty && cfgVer != configVersion)
                     {
                         cfg.DeleteConfig(false);
-                        NoIntroVideo.Log("The config file was outdated and has been deleted. A new config will be generated.");
+                        CENoIntroVideoMod.Log("The config file was outdated and has been deleted. A new config will be generated.");
                     }
 
                     //cfg.Write("SupportsHotLoading", new UMFConfigBool(false)); //Uncomment if your mod can't be loaded once the game has started.
@@ -32,16 +32,16 @@ namespace NoIntroVideo
                     cfg.Write("UpdateURL", new UMFConfigString(""));
                     cfg.Write("ConfigVersion", new UMFConfigString(configVersion));
 
-                    NoIntroVideo.Log("Finished UMF Settings.");
+                    CENoIntroVideoMod.Log("Finished UMF Settings.");
 
                     //Add your settings here
 
-                    NoIntroVideo.Log("Finished loading settings.");
+                    CENoIntroVideoMod.Log("Finished loading settings.");
                 }
             }
             catch (Exception e)
             {
-                NoIntroVideo.Log("Error loading mod settings: " + e.Message + "(" + e.InnerException?.Message + ")");
+                CENoIntroVideoMod.Log("Error loading mod settings: " + e.Message + "(" + e.InnerException?.Message + ")");
             }
         }
     }

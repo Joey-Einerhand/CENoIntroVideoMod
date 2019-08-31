@@ -1,8 +1,8 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyProduct("NoIntroVideo")] //Set this to the full name of the mod including spaces.
-[assembly: AssemblyTitle("NoIntroVideo")] //This is only used when mousing over a dll file in Windows explorer.
+[assembly: AssemblyProduct("CENoIntroVideoMod")] //Set this to the full name of the mod including spaces.
+[assembly: AssemblyTitle("CENoIntroVideoMod")] //This is only used when mousing over a dll file in Windows explorer.
 [assembly: AssemblyDescription("A UMF Mod(umodframework.com) for Circle Empires")]
 [assembly: AssemblyCompany("My Name @ mywebsite.com")] //Set this to your name/nickname and/or website
 [assembly: AssemblyCopyright("© 2019 My Name. All rights reserved.")] //Set this to your copyright name.
@@ -10,4 +10,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyFileVersion("1.0")] //Set this to the version of your mod.
 
 [assembly: ComVisible(false)]
-[assembly: Guid("d1276cef-da36-4c23-94ee-4b0bb61f2545")]
+[assembly: Guid("e9302d6d-c311-4d19-8725-6a48561bedee")]

@@ -13,7 +13,7 @@ Open Source Instructions for Users:
  3. Install UMF (uMod Framework) v0.52.1 or higher into the game.
  4. Clone or download this project.
  5. Edit GamePaths.xml and change the paths to where your game is installed.
- 6. Load the project up in Visual Studio by double clicking NoIntroVideo.sln.
+ 6. Load the project up in Visual Studio by double clicking CENoIntroVideoMod.sln.
 
 
 ---

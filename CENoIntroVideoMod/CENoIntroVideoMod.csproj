@@ -6,11 +6,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{d1276cef-da36-4c23-94ee-4b0bb61f2545}</ProjectGuid>
+    <ProjectGuid>{e9302d6d-c311-4d19-8725-6a48561bedee}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NoIntroVideo</RootNamespace>
-    <AssemblyName>NoIntroVideo</AssemblyName>
+    <RootNamespace>CENoIntroVideoMod</RootNamespace>
+    <AssemblyName>CENoIntroVideoMod</AssemblyName>
     <TargetFrameworks>net35</TargetFrameworks>
     <FileAlignment>512</FileAlignment>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>

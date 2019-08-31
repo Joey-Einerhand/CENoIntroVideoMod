@@ -2,20 +2,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{7108dd76-175a-40d8-a754-f5bc8353b7d1}") = "NoIntroVideo", "NoIntroVideo\NoIntroVideo.csproj", "{d1276cef-da36-4c23-94ee-4b0bb61f2545}"
+Project("{35dd401f-0707-4a10-acf6-b502934a677c}") = "CENoIntroVideoMod", "CENoIntroVideoMod\CENoIntroVideoMod.csproj", "{e9302d6d-c311-4d19-8725-6a48561bedee}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{d1276cef-da36-4c23-94ee-4b0bb61f2545}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{d1276cef-da36-4c23-94ee-4b0bb61f2545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{e9302d6d-c311-4d19-8725-6a48561bedee}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{e9302d6d-c311-4d19-8725-6a48561bedee}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {afe828c4-42f1-4135-a980-6b352259cc56}
+		SolutionGuid = {5e5be95e-644b-4f4a-98fd-ebf9fb931d0d}
 	EndGlobalSection
 EndGlobal

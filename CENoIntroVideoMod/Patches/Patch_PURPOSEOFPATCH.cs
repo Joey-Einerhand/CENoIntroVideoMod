@@ -1,7 +1,7 @@
 using UnityEngine;
 using HarmonyLib;
 
-namespace NoIntroVideo.Patches
+namespace CENoIntroVideoMod.Patches
 {
     [HarmonyPatch(typeof(CLASSTOPATCH))]
     [HarmonyPatch("FUNCTIONTOPATCH")]
