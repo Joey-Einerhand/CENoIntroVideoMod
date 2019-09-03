@@ -9,6 +9,7 @@ namespace CENoIntroVideoMod
 
         //Add your config vars here.
 
+
         internal static void Load()
         {
             CENoIntroVideoMod.Log("Loading settings.");

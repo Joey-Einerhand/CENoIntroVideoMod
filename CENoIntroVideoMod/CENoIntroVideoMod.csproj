@@ -6,7 +6,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{e9302d6d-c311-4d19-8725-6a48561bedee}</ProjectGuid>
+    <ProjectGuid>{fcf191d9-8c6b-40c7-b82b-9810e0afa2fa}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CENoIntroVideoMod</RootNamespace>
@@ -49,6 +49,12 @@
     </Reference>
     <Reference Include="0Harmony">
       <HintPath>$(GamePath)uModFramework\Lib\net35\0Harmony.dll</HintPath>
+      <Private>False</Private>
+      <SpecificVersion>false</SpecificVersion>
+    </Reference>
+	<!-- Added reference for NoIntroVidMod -->
+	<Reference Include="UnityEngine.UI">
+      <HintPath>$(GamePath)$(ManagedFolder)UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
       <SpecificVersion>false</SpecificVersion>
     </Reference>
