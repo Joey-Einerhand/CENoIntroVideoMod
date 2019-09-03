@@ -9,9 +9,11 @@ If you enjoy this mod, consider joining the [UMF Framework discord!](https://dis
 ### Manual installation:
 1. Install [UMF Framework](https://umodframework.com/wiki/install)
 2. Make sure to select your Circle Empires folder as your game folder!
-3. Download the latest release file (CENoIntroVideoMod_v1.0.umfmod)
-4. Drop this in your Circle Empires\uModFramework\Mods folder
-5. Enjoy!
+3. Download the latest [.umfmod file](https://github.com/RoJoJoey/CENoIntroVideoMod/releases)
+4. Drop the .umfmod file in your Circle Empires\uModFramework\Mods folder
+5. Download the [UnityEngine.dll file ](https://github.com/RoJoJoey/CENoIntroVideoMod/releases)
+6. Drop the UnityEngine.dll file in your Circle Empires\Circle Empires_Data\Managed folder
+7. Launch the game and enjoy!
 
 
 ## Uninstalling
