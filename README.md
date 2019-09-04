@@ -1,6 +1,7 @@
 # CircleEmpires-NoIntroVideo-Mod
-This is a mod for the game Circle Empires.
-If you enjoy this mod, consider joining the [UMF Framework discord!](https://discordapp.com/invite/FMrhTnH)
+This is a mod for the game Circle Empires. It runs on to the [UModFramework](https://umodframework.com/).
+
+If you enjoy this mod, consider joining the [UMF discord!](https://discordapp.com/invite/FMrhTnH)
 
 ## Functionality
 This mod is pretty straight foward; it removes the intro video that Circle Empires plays on startup.
