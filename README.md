@@ -1,3 +1,5 @@
+Please contact me directly if you take issue with the files I uploaded in my releases.
+
 # CircleEmpires-NoIntroVideo-Mod
 This is a mod for the game Circle Empires. It runs on to the [UModFramework](https://umodframework.com/).
 
