@@ -5,7 +5,7 @@ namespace CENoIntroVideoMod
 {
     public class CENoIntroVideoModConfig
     {
-        private static readonly string configVersion = "1.0";
+        private static readonly string configVersion = "1.0.1";
 
         //Add your config vars here.
 

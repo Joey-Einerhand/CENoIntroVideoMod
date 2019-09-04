@@ -9,9 +9,12 @@ namespace CENoIntroVideoMod.Patches
     {
         public static void Prefix(IntroVideo __instance)
         {
-            __instance.startDone = 1;
-            Button component = __instance.transform.parent.Find("CloseIntroVideoButton").gameObject.GetComponent<Button>();
-            component.onClick.Invoke();
+            if (__instance.startDone == 0 && __instance.manageContent.appInitializationDone > 0)
+            {
+                __instance.startDone = 1;
+                Button component = __instance.transform.parent.Find("CloseIntroVideoButton").gameObject.GetComponent<Button>();
+                component.onClick.Invoke();
+            }
         }
     }
 }
