@@ -10,7 +10,10 @@ This mod is pretty straight foward; it removes the intro video that Circle Empir
 
 ## Installation
 ### Automatic installation:
---ToDo--: Apply for mod creator rights on UMF
+1. Install [UMF Framework](https://umodframework.com/wiki/install)
+2. Make sure to select your Circle Empires folder as your game folder!
+3. Install it with the help of this mod's [UMF mod page](https://umodframework.com/mod?id=14)
+4. follow steps #5 and #6 of the Manual Installation instructions down below
 
 ### Manual installation:
 1. Install [UMF Framework](https://umodframework.com/wiki/install)
