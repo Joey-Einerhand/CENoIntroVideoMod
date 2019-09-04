@@ -7,7 +7,7 @@ This mod is pretty straight foward; it removes the intro video that Circle Empir
 
 ## Installation
 ### Automatic installation:
---ToDo--: Enter link!
+--ToDo--: Apply for mod creator rights on UMF
 
 ### Manual installation:
 1. Install [UMF Framework](https://umodframework.com/wiki/install)
@@ -31,7 +31,7 @@ If you want to edit or contribute to this project, do the following:
 
 ## Uninstalling
 ### If you used manual installation:
---ToDo--: Enter instruction!
+Remove the .umfmod file from the *\uModFramework\Mods folder.
 ### If you used automatic installation:
 To uninstall the mod, remove it with the help of the UMF website (https://umodframework.com/mods)
 
