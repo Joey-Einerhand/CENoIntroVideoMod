@@ -1,5 +1,3 @@
-# Abandoned project. Feel free to adopt.
-## Any version different from this github's page release page is not endorsed by me.
 
 # CircleEmpires-NoIntroVideo-Mod
 This is a mod for the game Circle Empires. It runs on to the [UModFramework](https://umodframework.com/).
